@@ -132,6 +132,8 @@ See [NCBI API Key documentation](https://www.ncbi.nlm.nih.gov/account/) for deta
 
 ---
 
-## License
-
-MIT
+## Acknowledgements
+**Tianyang Li** — authored the original R script that forms the foundation of 
+  this application, including the core PubMed query function and initial Shiny app skeleton with file upload, 
+  keyword inputs, progress tracking, and CSV export.
+Extended by Ayana Singh 
